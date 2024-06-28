@@ -384,22 +384,22 @@ section .title::after {
 
 
 .skills-content .right .js::before {
-    width: 85%;
+    width: 95%;
 }
 
 .skills-content .right .php::before {
-    width: 70%;
+    width: 80%;
 }
 
 .skills-content .right .mysql::before {
-    width: 50%;
+    width: 100%;
 }
 
 .skills-content .right .C::before {
-    width: 70%;
+    width: 95%;
 }
 .skills-content .right .Cpp::before {
-    width: 70%;
+    width: 20%;
 }
 
 /* contact section styling */
